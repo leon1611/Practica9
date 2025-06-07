@@ -1,9 +1,9 @@
 
-# Práctica #6  Creación de un entorno CRUD Mascotas con Docker Compose
+# Práctica #9 Creación de un entorno CRUD Mascotas con Docker Compose
 
 ## 1. Título
 
-**Práctica No 6: Creación de un CRUD FullStack de Mascotas (React + Spring Boot + PostgreSQL + pgAdmin) utilizando Docker Compose**
+**Práctica No 9: Creación de un CRUD FullStack de Mascotas (React + Spring Boot + PostgreSQL + pgAdmin) utilizando Docker Compose**
 
 ## 2. Tiempo de duración
 
